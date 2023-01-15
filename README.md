@@ -1,6 +1,7 @@
 <h1>Hi, I'm 99TheDark! I've loved coding for over 5 years.</h1>
 
-<p>You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a></p>
+>
+<p>You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.</p>
 
 <p>I have a lot of experience in JavaScript, and am pretty good at Java, among familiarity in many other languages.</p>
 
