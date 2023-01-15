@@ -9,3 +9,9 @@ https://www.khanacademy.org/profile/OnlyTheDark/projects
 There are some of my projects (ProcessingJS) ^^^
 
 I have lots of JSFiddles as well, but sadly JSFiddle doesn't have a profile page unless you are logged in as yourself :P
+
+I have a lot of experience in JavaScript, and am pretty good at Java, among many other languages.
+
+<div align="center">
+    <img src=
+</div>
