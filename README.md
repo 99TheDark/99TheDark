@@ -13,5 +13,5 @@ I have lots of JSFiddles as well, but sadly JSFiddle doesn't have a profile page
 I have a lot of experience in JavaScript, and am pretty good at Java, among many other languages.
 
 <div align="center">
-    <img src=
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 </div>
