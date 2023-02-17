@@ -4,7 +4,14 @@
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 >
 > I have a lot of experience in JavaScript, and am pretty good at Java, among familiarity in many other languages.
->
+
+
+<br>
+
+![TheDark's GitHub stats](https://github-readme-stats.vercel.app/api?username=99thedark&show_icons=true&theme=radical)
+
+<br><br>
+
 <div align="center" style="display: flex;gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px" />
