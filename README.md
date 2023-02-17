@@ -1,4 +1,4 @@
-<h1>Hi, I'm 99TheDark! I've loved coding for over 5 years.</h1>
+<h1>Hi, I'm TheDark! I've loved coding for almost 6 years, coming up in less than a week.</h1>
 
 >
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
