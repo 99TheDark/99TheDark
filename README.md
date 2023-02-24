@@ -12,7 +12,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=99thedark&show_icons=true&theme=tokyonight">
         </a>
         <br><br>
-        <a href="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight)](https://git.io/streak-stats">
+        <a href="https://git.io/streak-stats">
             <img src="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight">
         </a>
         <br><br>
