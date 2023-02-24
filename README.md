@@ -28,12 +28,12 @@
 
 <br>
 
-<div align="center" style="display: flex;gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" />
-    <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" height="60px" />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" hspace="5px">
+    <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" height="60px" hspace="5px">
 </div>
 
 <br>
