@@ -13,7 +13,7 @@
         </a>
         <br><br>
         <a href="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight)](https://git.io/streak-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&show_icons=true&theme=tokyonight">
+            <img src="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight">
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
