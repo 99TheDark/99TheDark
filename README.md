@@ -9,7 +9,7 @@
 <div align="center">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&show_icons=true&theme=tokyonight">
+            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true">
         </a>
         <br><br>
         <a href="https://git.io/streak-stats">
@@ -17,7 +17,7 @@
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&hide=shell&exclude_repo=Hello-World">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Hello-World&hide=shell">
         </a>
         <br><br>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
