@@ -17,7 +17,7 @@
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&hide=shell">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&hide=shell&exclude_repo=Hello-World">
         </a>
     </div>
 </div>
