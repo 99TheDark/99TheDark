@@ -43,3 +43,9 @@
 </div>
 
 <br>
+
+<hr>
+
+<br>
+
+<div align="center"><sup>Languages learned ordered chronologically</sup></div>
