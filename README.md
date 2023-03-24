@@ -1,4 +1,4 @@
-[<h1>Hi, I'm TheDark! I've loved and pursued coding for over 6 years.</h1>
+<h1>Hi, I'm TheDark! I've loved and pursued coding for over 6 years.</h1>
 
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 >
@@ -17,7 +17,7 @@
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&hide=shell&exclude_repo=Hello-World">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=Hello-World">
         </a>
         <br><br>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
