@@ -41,6 +41,7 @@
     <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="60px" hspace="5px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1024px-WebGL_Logo.svg.png?20210505165026" height="60px" hspace="5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60px" hspace="5px">
 </div>
 
 <br>
