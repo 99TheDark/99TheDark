@@ -52,4 +52,5 @@
 
 <br>
 
-<div align="middle"><sup>Languages learned ordered chronologically</sup></div>
+<div align="middle"><sup>Languages learned, ordered chronologically</sup></div>
+
