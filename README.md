@@ -52,5 +52,14 @@
 
 <br>
 
-<div align="middle"><sup>Languages learned, ordered chronologically</sup></div>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="50px" hspace="5px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="50px" hspace="5px">
+</div>
+
+<hr>
+
+<br>
+
+<div align="middle"><sup>Languages and technologies learned, ordered chronologically</sup></div>
 
