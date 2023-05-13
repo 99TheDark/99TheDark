@@ -55,6 +55,9 @@
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="50px" hspace="5px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="50px" hspace="5px">
+    <!-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50px" hspace="5px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" hspace="5px"> -->
 </div>
 
 <br>
