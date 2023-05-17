@@ -1,4 +1,5 @@
-<h1>Hi, I'm TheDark! I've loved and pursued coding for over 6 years.</h1>
+# Hi, I'm TheDark!
+#### I'm a full-stack web developer and have been loving coding for over six years!
 
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 >
