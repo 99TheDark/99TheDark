@@ -59,7 +59,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" hspace="5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50px" hspace="5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50px" hspace="5px">
-    
     <!-- Planning to Learn -->
     <!-- <img src="https://llvm.org/img/DragonMedium.png" height="50px" hspace="5px"> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" hspace="5px"> -->
