@@ -20,11 +20,9 @@
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=Hello-World&hide=markdown">
         </a>
-        <!-- Has been down for a while unfortunately -->
-        <!-- <br><br>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=99thedark&theme=tokyo-night">
-        </a> -->
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=99thedark&theme=tokyo-night">
+        </a>
     </div>
 </div>
 
