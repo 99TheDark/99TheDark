@@ -71,3 +71,4 @@
 
 <div align="middle"><sup>Languages and technologies learned, ordered chronologically</sup></div>
 
+<br>
