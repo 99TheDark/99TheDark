@@ -62,9 +62,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55px" hspace="6px">
+    <!-- <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px"> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" hspace="6px"> -->
     <!-- <img src="https://llvm.org/img/DragonMedium.png" height="50px" hspace="6px"> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" hspace="6px"> -->
 </div>
 
 <br>
