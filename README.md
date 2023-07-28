@@ -48,6 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="55px" hspace="6px">
 </div>
 
 <br>
@@ -64,8 +65,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px">
     <img src="https://vitejs.dev/logo-with-shadow.png" height="60px" hspace="6px">
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" hspace="6px"> -->
-    <!-- <img src="https://llvm.org/img/DragonMedium.png" height="50px" hspace="6px"> -->
 </div>
 
 <br>
