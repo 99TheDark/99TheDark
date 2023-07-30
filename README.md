@@ -65,6 +65,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px">
     <img src="https://vitejs.dev/logo-with-shadow.png" height="60px" hspace="6px">
+    <img src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px">
 </div>
 
 <br>
