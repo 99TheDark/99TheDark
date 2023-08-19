@@ -39,7 +39,6 @@
     <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55px" hspace="6px">
-    <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1024px-WebGL_Logo.svg.png?20210505165026" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" hspace="6px">
@@ -49,6 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px">
+    <!-- <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px"> -->
 </div>
 
 <br>
