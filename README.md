@@ -66,6 +66,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px">
     <img src="https://vitejs.dev/logo-with-shadow.png" height="60px" hspace="6px">
     <img src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px">
 </div>
 
 <br>
