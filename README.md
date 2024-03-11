@@ -41,7 +41,7 @@
     <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55px" hspace="6px" />
     <img alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="55px" hspace="6px" />
     <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55px" hspace="6px" />
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" hspace="6px" />
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" />
     <br />
     <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55px" hspace="6px" />
     <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px" />
