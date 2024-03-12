@@ -3,7 +3,7 @@
 
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 >
-> I have a lot of experience in JavaScript and TypeScript, decent experience in Java, Go, C# and GLSL, among familiarity in many other languages such as Julia, Dart and C. 
+> I have a lot of experience in JavaScript and TypeScript, decent experience in Java, Go, C#, Rust and GLSL, among familiarity in many other languages such as Julia, Dart and C. 
 
 <br>
 
