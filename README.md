@@ -1,9 +1,9 @@
 # Hi, I'm TheDark!
-#### I'm a full-stack web developer, and have been loving coding for seven years!
+#### I have been loving and experiencing code for over seven years!
 
 > You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 >
-> I have a lot of experience in JavaScript and TypeScript, decent experience in Java, Go, C#, Rust and GLSL, among familiarity in many other languages such as Julia, Dart and C. 
+> I have experience in frontend & backend web development, making algorithms, compilers, shaders and libraries, and more. In terms of programming languages, I have a lot of experience in JavaScript and TypeScript, decent experience in Java, Go, C#, Rust and GLSL, among familiarity in many other languages such as Julia, Dart and C. 
 
 <br>
 
