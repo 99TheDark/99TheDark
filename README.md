@@ -2,26 +2,26 @@
 #### I have been loving and experiencing code for over seven years!
 > I have experience in frontend & backend web development, making algorithms, compilers, shaders and libraries, and more. In terms of programming languages, I have a lot of experience in JavaScript and TypeScript, decent experience in Java, Go, C#, Rust and GLSL, among familiarity in many other languages such as Julia, Dart and C.
 >
-> You can find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
+> You can also find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 
 <br>
 
 <div align="center">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true">
+            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true" />
         </a>
         <br><br>
         <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight">
+            <img src="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight" />
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-            <img src="https://github-readme-stats-chi-pink-59.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=20&exclude_repo=Hello-World&hide=markdown">
+            <img src="https://github-readme-stats-chi-pink-59.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=20&exclude_repo=Hello-World&hide=markdown" />
         </a>
         <br><br>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=99thedark&theme=tokyo-night">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=99thedark&theme=tokyo-night" />
         </a>
     </div>
 </div>
