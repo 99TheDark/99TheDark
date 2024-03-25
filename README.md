@@ -4,7 +4,10 @@
 >
 > You can also find me on <a href="https://www.khanacademy.org/profile/OnlyTheDark/projects">Khan Academy</a>.
 
-<br>
+<br />
+
+<details>
+<summary>Statistics</summary>
 
 <div align="center">
     <div>
@@ -26,11 +29,13 @@
     </div>
 </div>
 
-<br>
+<br />
 
-<hr>
+</details>
 
-<br>
+<hr />
+
+<br />
 
 <div align="center">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55px" hspace="6px" />
@@ -53,11 +58,11 @@
     <!-- <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55px" hspace="6px" /> -->
 </div>
 
-<br>
+<br />
 
-<hr>
+<hr />
 
-<br>
+<br />
 
 <div align="center">
     <img alt="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="55px" hspace="6px">
@@ -71,12 +76,12 @@
     <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px">
 </div>
 
-<br>
+<br />
 
-<hr>
+<hr />
 
-<br>
+<br />
 
 <div align="middle"><sup>Languages and technologies learned, ordered chronologically</sup></div>
 
-<br>
+<br />
