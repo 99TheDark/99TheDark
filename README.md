@@ -7,7 +7,7 @@
 <br />
 
 <details>
-<summary>Statistics</summary>
+<summary>&nbsp;Statistics</summary>
 
 <div align="center">
     <div>
