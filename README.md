@@ -38,23 +38,26 @@
 <br />
 
 <div align="center">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55px" hspace="6px" />
-    <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px" hspace="6px" />
-    <img alt="CSS" src="https://cdn.cdnlogo.com/logos/c/18/css.svg" height="55px" hspace="6px" />
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px" hspace="6px" />
-    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55px" hspace="6px" />
-    <img alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="55px" hspace="6px" />
-    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55px" hspace="6px" />
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" />
-    <br />
-    <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55px" hspace="6px" />
-    <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px" />
-    <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
-    <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
-    <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px" />
-    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" />
-    <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
-    <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
+    <div align="center">
+        <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55px" hspace="6px" />
+        <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px" hspace="6px" />
+        <img alt="CSS" src="https://cdn.cdnlogo.com/logos/c/18/css.svg" height="55px" hspace="6px" />
+        <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px" hspace="6px" />
+        <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55px" hspace="6px" />
+        <img alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="55px" hspace="6px" />
+        <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55px" hspace="6px" />
+        <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" />
+    </div>
+    <div align="center">
+        <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55px" hspace="6px" />
+        <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px" />
+        <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
+        <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
+        <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px" />
+        <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" />
+        <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
+        <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
+    </div>
     <!-- <img alt="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px" /> -->
     <!-- <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55px" hspace="6px" /> -->
 </div>
