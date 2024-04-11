@@ -38,6 +38,7 @@
 <br />
 
 <div align="center">
+    <!-- Note to self: Make each row have 10, not 5 languages, mobile splits the rows of 8 5/3 -->
     <div align="center">
         <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55px" hspace="6px" />
         <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px" hspace="6px" />
