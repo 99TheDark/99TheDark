@@ -38,7 +38,6 @@
 <br />
 
 <div align="center">
-    <!-- Note to self: Make each row have 10, not 5 languages, mobile splits the rows of 8 5/3 -->
     <div align="center">
         <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55px" hspace="6px" />
         <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px" hspace="6px" />
@@ -48,10 +47,10 @@
         <img alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height="55px" hspace="6px" />
         <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55px" hspace="6px" />
         <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55px" />
-    </div>
-    <div align="center">
         <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55px" hspace="6px" />
         <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px" />
+    </div>
+    <div align="center">
         <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
         <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
         <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px" />
