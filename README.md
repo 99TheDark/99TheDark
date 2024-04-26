@@ -50,6 +50,7 @@
         <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55px" hspace="6px" />
         <img alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="55px" hspace="6px" />
     </div>
+    <p height="100px"> </p>
     <div align="center">
         <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
         <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
@@ -59,6 +60,7 @@
         <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
         <!-- <img alt="Swift" src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="55px" hspace="6px" /> -->
         <!-- <img alt="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px" /> -->
+        <!-- <img alt="WGSL" src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="55px" hspace="6px" /> -->
     </div>
     <!-- <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55px" hspace="6px" /> -->
 </div>
