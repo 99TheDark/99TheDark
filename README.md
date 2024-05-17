@@ -58,7 +58,6 @@
         <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" />
         <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
         <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
-        <!-- <img alt="Swift" src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="55px" hspace="6px" /> -->
         <!-- <img alt="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px" /> -->
         <!-- <img alt="WGSL" src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="55px" hspace="6px" /> -->
     </div>
@@ -81,7 +80,6 @@
     <img alt="LLVM" src="https://llvm.org/img/DragonMedium.png" height="55px" hspace="6px" />
     <img alt="Ebitengine" src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px" />
     <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px" />
-    <!-- <img alt="SwiftUI" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="55px" hspace="6px" /> -->
     <!-- <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55px" space="6px" /> -->
 </div>
 
