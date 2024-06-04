@@ -80,7 +80,7 @@
     <img alt="LLVM" src="https://llvm.org/img/DragonMedium.png" height="55px" hspace="6px" />
     <img alt="Ebitengine" src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px" />
     <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px" />
-    <!-- <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55px" space="6px" /> -->
+    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55px" space="6px" />
 </div>
 
 <br />
