@@ -58,6 +58,7 @@
         <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" />
         <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
         <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
+        <!-- <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55px" hspace="6px" /> -->
         <!-- <img alt="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" height="55px" hspace="6px" /> -->
         <!-- <img alt="WGSL" src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="55px" hspace="6px" /> -->
     </div>
@@ -71,16 +72,22 @@
 <br />
 
 <div align="center">
-    <img alt="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="55px" hspace="6px" />
-    <img alt="p5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="55px" hspace="6px" />
-    <img alt="Node" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="55px" hspace="6px" />
-    <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="55px" hspace="6px" />
-    <img alt="Tauri" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px" />
-    <img alt="Vite" src="https://vitejs.dev/logo-with-shadow.png" height="55px" hspace="6px" />
-    <img alt="LLVM" src="https://llvm.org/img/DragonMedium.png" height="55px" hspace="6px" />
-    <img alt="Ebitengine" src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px" />
-    <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px" />
-    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55px" space="6px" />
+    <div align="center">
+        <img alt="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="55px" hspace="6px" />
+        <img alt="p5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="55px" hspace="6px" />
+        <img alt="Node" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="55px" hspace="6px" />
+        <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="55px" hspace="6px" />
+        <img alt="Tauri" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px" />
+        <img alt="Vite" src="https://vitejs.dev/logo-with-shadow.png" height="55px" hspace="6px" />
+        <img alt="LLVM" src="https://llvm.org/img/DragonMedium.png" height="55px" hspace="6px" />
+        <img alt="Ebitengine" src="https://ebitengine.org/images/logo.png" height="55px" hspace="6px" />
+        <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" height="55px" hspace="6px" />
+        <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55px" hspace="6px" />
+    </div>
+    <!-- <p height="100px"> </p>
+    <div align="center">
+        <img alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="55px" hspace="6px" />
+    </div> -->
 </div>
 
 <br />
