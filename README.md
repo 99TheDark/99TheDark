@@ -55,7 +55,7 @@
         <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
         <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
         <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px" />
-        <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" />
+        <!-- <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" /> -->
         <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
         <img alt="Nim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="55px" hspace="6px" />
         <img alt="WGSL" src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="55px" hspace="6px" />
