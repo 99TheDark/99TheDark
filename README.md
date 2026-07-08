@@ -12,7 +12,7 @@
 <div align="center">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-            <img src="https://github-readme-stats.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true" />
+            <img src="https://github-stats-extended.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true" />
         </a>
         <br><br>
         <a href="https://git.io/streak-stats">
@@ -20,7 +20,7 @@
         </a>
         <br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=20&exclude_repo=Hello-World&hide=markdown" />
+            <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=20&exclude_repo=Hello-World&hide=markdown" />
         </a>
         <br><br>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -53,7 +53,7 @@
     <p height="100px"> </p>
     <div align="center">
         <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55px" hspace="6px" />
-        <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/2048px-WebAssembly_Logo.svg.png" height="55px" hspace="6px" />
+        <img alt="WebAssembly" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" height="55px" hspace="6px" />
         <img alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55px" hspace="6px" />
         <!-- <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55px" hspace="6px" /> -->
         <img alt="Rust" src="https://raw.githubusercontent.com/99TheDark/99TheDark/ada7fe76b527d83164dd85c0e6d3915341f05b90/rust.svg" height="55px" hspace="6px" />
@@ -74,7 +74,7 @@
 <div align="center">
     <div align="center">
         <img alt="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="55px" hspace="6px" />
-        <img alt="p5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" height="55px" hspace="6px" />
+        <img alt="p5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/1280px-P5.js_icon.svg.png" height="55px" hspace="6px" />
         <img alt="Node" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="55px" hspace="6px" />
         <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="55px" hspace="6px" />
         <img alt="Tauri" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="55px" hspace="6px" />
