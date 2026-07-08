@@ -11,7 +11,7 @@
 
 <div align="center">
     <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+        <a href="https://github.com/stats-organization/github-stats-extended">
             <img src="https://github-stats-extended.vercel.app/api?username=99thedark&theme=tokyonight&show_icons=true" />
         </a>
         <br><br>
@@ -19,7 +19,7 @@
             <img src="https://streak-stats.demolab.com?user=99thedark&theme=tokyonight" />
         </a>
         <br><br>
-        <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+        <a href="https://github.com/stats-organization/github-stats-extended">
             <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=99thedark&theme=tokyonight&layout=compact&langs_count=20&exclude_repo=Hello-World&hide=markdown" />
         </a>
         <br><br>
